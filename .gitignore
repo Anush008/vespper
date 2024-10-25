@@ -60,3 +60,16 @@ vespper-aws.pub
 
 # Python
 __pycache__
+
+# Keys and secrets
+*.pem
+*.key
+*.crt
+*.cert
+*.p12
+*.pfx
+*.asc
+*.gpg
+*.jks
+*.keystore
+*.pub
