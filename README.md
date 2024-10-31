@@ -32,9 +32,16 @@
 </a>
 </div>
 
+<p><span/>
+Attention! If you want to use vespperfor your team or organisation please contact us.
+This open-source project is suited for single individual use. Any advanced investigation features will be under vespper-ee.
+</p>
+
+
 ## Overview 💫
 
 Vespper is an AI-powered on-call engineer. It can automatically jump into incidents & alerts with you, and provide you useful & contextual insights and RCA in real time.
+
 
 ## Why ❓
 
