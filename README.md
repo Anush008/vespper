@@ -32,9 +32,10 @@
 </a>
 </div>
 
-<p><span/>
-Attention! If you want to use vespperfor your team or organisation please contact us.
+
+Note: If you want to use vespper for your team or for your organisation please reach out to us.
 This open-source project is suited for single individual use. Any advanced investigation features will be under vespper-ee.
+
 </p>
 
 
